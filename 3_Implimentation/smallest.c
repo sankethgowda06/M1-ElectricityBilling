@@ -8,7 +8,7 @@ int smallest=num%10;
 while (num > 0)
     {
 reminder=num%10;
-if(smallest>remider)
+if(smallest>reminder)
  {
        smallest=reminder;
  }
