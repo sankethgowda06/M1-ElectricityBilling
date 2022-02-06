@@ -1,13 +1,16 @@
 #include<stdio.h>
 
-int factorial(int num)
+int factorial(int number)
 {
- if (num<=1)
- return 1;
- else
- return (num * factorial(num-1));
+ int fact=1;
+	if(number<0)	
+    		return -1;
+	else{
+		for(int i=1;i<=number;i++)
+			fact*=i;
+		return fact;
 }
-
+}
 int main() 
 {
   int num = 0, N = 0;
