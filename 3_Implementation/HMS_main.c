@@ -14,8 +14,8 @@ void welcome()
 {
 				system("cls");
 
-printf("\n**********||     WELCOME TO HOSPITAL MANAGEMENT SYSTEM    ||***********");
-printf("\n**********||                                              ||***********");
+printf("\n----------||     WELCOME TO HOSPITAL MANAGEMENT SYSTEM    ||----------");
+printf("\n----------||                                              ||----------");
                 
 			getch();
 			login();
