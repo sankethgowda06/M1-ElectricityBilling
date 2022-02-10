@@ -20,10 +20,17 @@ This project is the implementation for “ HOSPITAL MANAGEMENT SYSTEM” is a pr
 ## High Level Requirements
 | **<h3> ID** | **<h3>Description**                                                | <h3>Status      |    
 |-------------|------------------------------------------------------------------|------------- |
-| Patient Activities|-It includes patient records,patient information  | Implemented    |
+| Patient Activities|It includes patient records,patient information  | Implemented    |
 | Adminstration     |It includes room informtion,general adminstration| Implemented    |
 |  Payment Details       |It includes patient payment details,pay recipts etc| future    |
+
 ## Low Level Requirements
+| **<h3> ID** | **<h3>Description**                                              | <h3>Status      |    
+|-------------|--------------------------------------------------------------|------------- |
+ | security|It should secure because  only authorized user or receptionist can this system  | Implemented    |
+| platform     |The system can be work on any operating system like windows or linus| Implemented    |
+|  Performanace       |The system should handles the large amount patients data| Implemented    |
+
 
 How each feature is implemented
 Linkage of High level to Low level
