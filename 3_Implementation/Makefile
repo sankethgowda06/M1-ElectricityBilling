@@ -8,7 +8,7 @@ TEST_PROJ_NAME = test_$(PROJECT_NAME)
 
 
 # All source code files
-SRC = HMS_main.c\
+SRC = main.c\
 src/hms.c\
 
 
