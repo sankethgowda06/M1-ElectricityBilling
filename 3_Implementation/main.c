@@ -1,5 +1,6 @@
-#include<stdio.h>                   
+#include<stdio.h>                    
 #include "functions.h"
+
 char password[20]={"sanketh"};  
 
 int main(void)

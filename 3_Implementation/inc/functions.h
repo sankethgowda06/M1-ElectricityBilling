@@ -1,12 +1,13 @@
 #ifndef FUNCTIONS_H_
 #define FUNCTIONS_H_
 
-#include<stdio.h>                   //contains printf,scanfetc
-#include<conio.h>                   //contains delay(),getch(),gotoxy(),etc.
-#include<string.h>                  //contains strcmp(),strcpy(),strlen(),etc
+#include<stdio.h>                  
+#include <conio.h>                
+#include<string.h>                  
 #include <windows.h>
 #include<time.h>
 #include <ctype.h>
+#include <ncurses.h>
 //list of function prototype
 void id_valid_check(void);
 void add(void);
