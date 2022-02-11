@@ -1,7 +1,7 @@
 #include "functions.h"
-int i=0,valid=0;
-char Esc=0x1b;
-char choice=0;
+int i=0,valid=0;// global variable for validation
+char Esc=0x1b;// definition for ESC key
+char choice=0;// global char choice for switch
 int target=0;
 int search=0;
 int found=0;
